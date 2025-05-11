@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/3bdc84780438ad4970862eb8c862119d6b69fc030955c350f6761365a56d47fc/68747470733a2f2f63646e2e70726f642e776562736974652d66696c65732e636f6d2f3635323961663731343232666464616362666135383638642f3636336138356261393130353035383961373739393661655f494d475f333332312e676966)
 <h1 align="center">Hey there 👋 I'm Hitesh S P</h1>
 <h3 align="center">"Turning ideas into code"</h3>
-<!-- <img align="right" alt="CODING" width="350" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-3a38-6230-bd16-a438b207dc25/raw?se=2025-05-04T08%3A14%3A28Z&sp=r&sv=2024-08-04&sr=b&scid=4175df67-98aa-5142-ad56-e98c49eccba6&skoid=aa8389fc-fad7-4f8c-9921-3c583664d512&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-03T19%3A40%3A10Z&ske=2025-05-04T19%3A40%3A10Z&sks=b&skv=2024-08-04&sig=23DQDA8JttpajAK4VCbXEHU8I4TYnGQj4rZ7jXAFgys%3D"> -->
+<img align="right" alt="CODING" width="350" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-f364-6230-9391-5e1f67b0fe6f/raw?se=2025-05-11T19%3A08%3A21Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-10T22%3A43%3A07Z&ske=2025-05-11T22%3A43%3A07Z&sks=b&skv=2024-08-04&sig=h%2B4m6/5n6R7EDs874UtMKgAjOnDLs%2BBp3NokgwmPBYo%3D">
 
 
 - 🌱 I’m currently learning **Everything**
