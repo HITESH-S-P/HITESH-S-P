@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=H1T3$H&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"  width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HITESH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"  width="100%"/>
 </div>
 
 <div align="center">
@@ -239,8 +239,8 @@ Hobbies: ["Problem Solving", "Open Source", "Tech Blogging"]
 
 ### Developer Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Concentre-toi%20sur%20toi%2C%20pas%20sur%20moi.&author=HSP" />
 </div>
 
 <br>
@@ -252,5 +252,5 @@ Hobbies: ["Problem Solving", "Open Source", "Tech Blogging"]
 
 ### By Hitesh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer" width="100%"/>
 </div>
