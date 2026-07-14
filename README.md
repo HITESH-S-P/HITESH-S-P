@@ -234,17 +234,6 @@ Hobbies: ["Problem Solving", "Open Source", "Tech Blogging"]
 
 <br>
 <hr>
-
-<div align="center">
-
-### Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Concentre-toi%20sur%20toi%2C%20pas%20sur%20moi.&author=HSP" />
-</div>
-
-<br>
-
 ---
 
 <div align="center">
