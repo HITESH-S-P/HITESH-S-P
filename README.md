@@ -9,12 +9,12 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=700&lines=AI+Researcher;Software+Engineer;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="600" />
-</div>
+<p align="center">
+  <img width="100%" height="100%" alt="Adobe Express - github-gif" src="https://github.com/user-attachments/assets/153f0517-2cf4-4547-a5d2-14d5d5b4202d" />
+</p>
 
 <br>
 
