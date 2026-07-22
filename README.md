@@ -15,10 +15,10 @@
   <img width="100%" height="100%" alt="Adobe Express - github-gif" src="https://github.com/user-attachments/assets/153f0517-2cf4-4547-a5d2-14d5d5b4202d" />
 </p>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="55%" valign="top">
+<td width="75%" valign="top">
 
 ## Professional Summary
 
@@ -53,7 +53,7 @@ Hobbies:
 
 </td>
 
-<td width="45%" align="center">
+<td width="65%" align="center">
 
          ███████╗   ██████╗          
          ██╔════╝   ██╔══██╗         
