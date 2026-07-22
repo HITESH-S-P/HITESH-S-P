@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"  width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"  width="100%"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,10 @@
   <img width="100%" height="100%" alt="Adobe Express - github-gif" src="https://github.com/user-attachments/assets/153f0517-2cf4-4547-a5d2-14d5d5b4202d" />
 </p>
 
-<br>
+<table>
+<tr>
+
+<td width="55%" valign="top">
 
 ## Professional Summary
 
@@ -37,11 +40,32 @@ Technical_Skills:
   Cloud: [AWS, GCP, Docker, Kubernetes]
   Tools: [Git, Linux, Bash, Grafana, Kafka]
 
-Currently_Learning: ["System Design", "Distributed Systems", "Microservices"]
-Hobbies: ["Problem Solving", "Open Source", "Tech Blogging"]
+Currently_Learning:
+  - System Design
+  - Distributed Systems
+  - Microservices
+
+Hobbies:
+  - Problem Solving
+  - Open Source
+  - Tech Blogging
 ```
 
-<br>
+</td>
+
+<td width="45%" align="center">
+
+         ███████╗   ██████╗          
+         ██╔════╝   ██╔══██╗         
+         ███████╗   ██████╔╝         
+         ╚════██║   ██╔═══╝          
+         ███████║   ██║              
+     
+
+</td>
+
+</tr>
+</table>
 
 ## Technology Stack
 
