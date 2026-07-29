@@ -233,9 +233,8 @@ Hobbies:
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-s-p&theme=algolia&hide_border=true&background=0d1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hitesh-s-p&theme=algolia&hide_border=true&background=0d1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF" alt="GitHub Streak Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-s-p&custom_title=Contribution%20Graph&bg_color=0d1117&color=4A9EFF&line=4A9EFF&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
