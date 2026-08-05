@@ -261,7 +261,5 @@ Hobbies:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hitesh-s-p&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-### By Hitesh
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer" width="100%"/>
 </div>
